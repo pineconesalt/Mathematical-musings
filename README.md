@@ -1,0 +1,1 @@
+An area for my maths learnings. It will include certain aspects of my degrees, especially areas that I found hard to find elsewhere, and tutorials that I have put together to help understand more complex formulas and algorithms which will be helpful in the relm of data science and statistics.
