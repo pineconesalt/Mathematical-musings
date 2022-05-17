@@ -1,5 +1,5 @@
 # Introduction
-My disseration for Open university on the subject of Calculus of Variations. This essay was influenced by Courant & Hilbert's Methods of Mathematical Physics Vol II, Chapter VI and the Mark Kac's paper "Can One Hear the Shape of a Drum?" 
+My disseration for Open university on the subject of Calculus of Variations. The essay was influenced by Courant & Hilbert's Methods of Mathematical Physics Vol II, Chapter VI and the Mark Kac's paper "Can One Hear the Shape of a Drum?" 
 
 # Abstract
 This dissertation investigates the eigenvalues for different domains of the problem
